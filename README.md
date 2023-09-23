@@ -2,8 +2,6 @@
 
 Submission Menjadi Linux System Administrator - Kelas Proyek Shell Scripting
 
-[Sertifikat Kompetensi Kelas Belajar Jaringan Komputer untuk Pemula](https://www.dicoding.com/certificates/QLZ9Q2519Z5D)
-
 ## 🚀 Deskripsi Kelas
 
 Kelas Proyek Shell Scripting <br>
@@ -96,5 +94,5 @@ history >> history-adzkiaadi_dicoding.txt
 8. Langkah terakhir Zip 2 File yang sudah kita buat dan config sebelumnya
 
 ```
-zip submission1-linux-adzkiaadi_dicoding.zip
+zip submission1-linux-adzkiaadi_dicoding.zip script-adzkiaadi_dicoding.sh history-adzkiaadi_dicoding.txt
 ```
