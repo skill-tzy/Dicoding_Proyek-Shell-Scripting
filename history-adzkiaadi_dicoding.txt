@@ -1,0 +1,43 @@
+    1  ip add
+    2  apt update
+    3  apt upgrade
+    4  apt unzip
+    5  apt install unzip
+    6  free --giga
+    7  df
+    8  df -h
+    9  df --output='source','pecent'
+   10  df --output='source','pcent'
+   11  df -x tmpfs
+   12  df -h --output='source','pcent' -x tmpfs
+   13  touch script-adzkia-adi.sh
+   14  ls
+   15  mv script-adzkia-adi.sh script-adzkiaadi.sh
+   16  ls
+   17  nano script-adzkiaadi.sh
+   18  cd
+   19  nano script-adzkiaadi.sh
+   20  mv script-adzkiaadi.sh script-adzkiaadi_dicoding.sh
+   21  ls
+   22  nano script-adzkiaadi_dicoding.sh
+   23  chmod +x script-adzkiaadi_dicoding.sh
+   24  ls -l
+   25  ./script-adzkiaadi_dicoding.sh
+   26  nano script-adzkiaadi_dicoding.sh
+   27  ./script-adzkiaadi_dicoding.sh
+   28  man df
+   29  nano script-adzkiaadi_dicoding.sh
+   30  ./script-adzkiaadi_dicoding.sh
+   31  nano script-adzkiaadi_dicoding.sh
+   32  ./script-adzkiaadi_dicoding.sh
+   33  nano script-adzkiaadi_dicoding.sh
+   34  ./script-adzkiaadi_dicoding.sh
+   35  touch history-adzkiaadi_dicoding.txt
+   36  history
+   37  nano script-adzkiaadi_dicoding.sh
+   38  ./script-adzkiaadi_dicoding.sh
+   39  nano script-adzkiaadi_dicoding.sh
+   40  ./script-adzkiaadi_dicoding.sh
+   41  nano script-adzkiaadi_dicoding.sh
+   42  ls
+   43  history >> history-adzkiaadi_dicoding.txt
